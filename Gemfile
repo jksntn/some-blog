@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-gemspec
+gemspec 
 
-gem 'jekyll'
-gem bundler '2.0.1'
+gem install bundler
