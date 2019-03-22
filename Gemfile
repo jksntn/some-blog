@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gemspec
 
-bundler (~> 1.12)
+gem 'bundler', '~> 1.12'
