@@ -1,5 +1,2 @@
 source "https://rubygems.org"
-
-gemspec 
-
-gem update bundler
+gem 'github-pages'
