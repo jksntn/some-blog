@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gemspec
 
-gem update --system
+gem update bundler
